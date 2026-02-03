@@ -5,7 +5,7 @@ SpareX Mobile is an e-commerce car parts listing app focused on Middle East mark
 ----
 
 📌 **Primary Documentation**  
-![Private](https://github.com/tanjim750/SpareX)
+SpareX-Mobile (Private): https://github.com/tanjim750/SpareX
 
 ## Screenshots
 
@@ -17,7 +17,7 @@ SpareX Mobile is an e-commerce car parts listing app focused on Middle East mark
   <img src="assets/images/project/Screenshot_2026-02-03-13-41-09-57_f73b71075b1de7323614b647fe394240.jpg" alt="Screenshot 5" width="160" height="320" />
   <img src="assets/images/project/Screenshot_2026-02-03-13-41-39-90_f73b71075b1de7323614b647fe394240.jpg" alt="Screenshot 6" width="160" height="320" />
   <img src="assets/images/project/Screenshot_2026-02-03-13-41-58-00.jpg" alt="Screenshot 7" width="160" height="320" />
-  <img src="https://raw.githubusercontent.com/tanjim750/SpareX/main/assets/images/project/Screenshot_2026-02-03-13-42-12-56_f73b71075b1de7323614b647fe394240.jpg" alt="Screenshot 8" width="160" height="320" />
+  <img src="assets/images/project/Screenshot_2026-02-03-13-42-12-56_f73b71075b1de7323614b647fe394240.jpg" alt="Screenshot 8" width="160" height="320" />
 </div>
 
 ## Tech Stack
