@@ -17,3 +17,9 @@ This repo is intended to provide clarity and transparency for visitors, collabor
 - SeuQuest Chat Module (Private): https://github.com/tanjim750/SeuQuest
 - SeuQuest chat Api (Public): https://github.com/tanjim750/SeuQuestApi
 - Nolokayon Ecom (Public): https://github.com/tanjim750/nolokayon
+- GlideCart Extension (Private): https://github.com/tanjim750/glideCart
+- Hunt Api tool (Public): https://github.com/tanjim750/huntAPI
+- Web Replica Tool (Public):  https://github.com/tanjim750/WebReplica
+- Virtual Mouse Tool (Public): https://github.com/tanjim750/VirtualAiMouse
+- ZyncOps WP Plugin (Private): https://github.com/tanjim750/zyncops-plugin
+- ZyncOps Api (Private): https://github.com/tanjim750/wplugin-server-django
