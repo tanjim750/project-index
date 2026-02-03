@@ -2,6 +2,11 @@
 
 SpareX API is the Django REST backend for the SpareX Mobile app — an e-commerce car parts listing experience focused on Middle East markets. The API handles authentication, user and business profiles, product listings, images, and engagement tracking.
 
+----
+
+📌 **Primary Documentation**  
+![Private](https://github.com/tanjim750/SpareX-api)
+
 **Tech Stack**
 - Python + Django 5.2
 - Django REST Framework

@@ -8,3 +8,8 @@ Public repositories are openly accessible and can be explored freely.
 
 This repo is intended to provide clarity and transparency for visitors, collaborators, and recruiters.
 
+----
+
+📌 **Primary Documentation**  
+![Private](https://github.com/tanjim750/SpareX-api)
+![Private](https://github.com/tanjim750/SpareX)
