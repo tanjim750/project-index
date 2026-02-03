@@ -14,3 +14,4 @@ This repo is intended to provide clarity and transparency for visitors, collabor
 - SpareX-RESTApi (Private): https://github.com/tanjim750/SpareX-api
 - SpareX-Mobile (Private): https://github.com/tanjim750/SpareX
 - Agro Farm (Public): https://github.com/tanjim750/agro-farm
+- SeuQuest Chat Module (Private): https://github.com/tanjim750/SeuQuest
